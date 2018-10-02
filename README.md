@@ -14,25 +14,32 @@ Skills: **Python, OpenCV, Computer Vision, Machine Learning**
 
 ## Demo
 ### Extract Document From Whiteboard
-Original Picture
+Original Picture:
+
 <img src="https://i.loli.net/2018/10/03/5bb3c6a236881.png" alt="drawing" width="500"/>
 
-Edge detection picture of RCF
+Edge detection picture of RCF:
+
 <img src="https://i.loli.net/2018/10/03/5bb3c6a205d2f.png" alt="drawing" width="500"/>
 
-Hough Transform of OpenCV
+Hough Transform of OpenCV:
+
 <img src="https://i.loli.net/2018/10/03/5bb3c6a221442.png" alt="drawing" width="500"/>
 
-Optimized Hough Transform image
+Optimized Hough Transform image:
+
 <img src="https://i.loli.net/2018/10/03/5bb3c6a200fab.png" alt="drawing" width="500"/>
 
-Eligible intersections image
+Eligible intersections image:
+
 <img src="https://i.loli.net/2018/10/03/5bb3c6a20a786.png" alt="drawing" width="500"/>
 
-The final target area rectangle
+The final target area rectangle:
+
 <img src="https://i.loli.net/2018/10/03/5bb3c6a20826f.png" alt="drawing" width="500"/>
 
-Final result by processing of all algorithms
+Final result by processing of all algorithms:
+
 <img src="https://i.loli.net/2018/10/03/5bb3c6a2278aa.png" alt="drawing" width="500"/>
 
 ### If you want to know algorithm detail and see more demos, please see my [paper](https://github.com/YujieZhao6/Document-Detection-Algorithm/blob/master/Design%20and%20Implementation%20of%20Document%20Detection%20Based%20on%20Deeping%20Learning--YUJIE%20ZHAO.pdf).
